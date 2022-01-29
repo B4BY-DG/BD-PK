@@ -20,4 +20,4 @@ cd BD-PK
 
 ls
 
-python2 BD-PK
+python2 BD-PK.py
